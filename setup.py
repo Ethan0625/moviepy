@@ -128,10 +128,10 @@ with open("README.rst", "r", "utf-8") as file:
 setup(
     name="moviepy",
     version=__version__,
-    author="Zulko 2017",
+    author="Ethan0625",
     description="Video editing with Python",
     long_description=readme,
-    url="https://zulko.github.io/moviepy/",
+    url="https://github.com/Ethan0625/moviepy",
     license="MIT License",
     classifiers=[
         "Development Status :: 5 - Production/Stable",
